@@ -9,6 +9,7 @@ Real-time industrial sensor monitoring system with OPC UA server implementation 
 
 ## 📋 Project Overview
 
+
 This project implements a production-ready OPC UA server that exposes real-time sensor data for industrial SCADA systems. It demonstrates Industry 4.0 principles by bridging edge sensors with industrial control systems using standardized communication protocols.
 
 **Key Achievement:** Enables any OPC UA client (PLCs, SCADA systems, HMIs) to access sensor data using industry-standard protocol—the same technology used in manufacturing plants worldwide.
