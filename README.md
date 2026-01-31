@@ -8,7 +8,6 @@ Real-time industrial sensor monitoring system with OPC UA server implementation 
 ![IoT](https://img.shields.io/badge/IIoT-Industry_4.0-green?style=for-the-badge)
 
 ## 📋 Project Overview
-<img width="1908" height="1015" alt="image" src="https://github.com/user-attachments/assets/371bd66e-4680-4ff3-a3c2-7c387c23118c" />
 
 
 This project implements a production-ready OPC UA server that exposes real-time sensor data for industrial SCADA systems. It demonstrates Industry 4.0 principles by bridging edge sensors with industrial control systems using standardized communication protocols.
